@@ -19,7 +19,7 @@ Jak uruchomić lokalnie
    git clone https://github.com/jasho02/DataParser-Task.git
 3. Przejdź do folderu projektu:
     cd DataParser
-4. Uruchom aplikacjeL
+4. Uruchom aplikację:
     dotnet run
 5. Po uruchomieniu otwórz przeglądarke i przejdź pod adres podany w terminalu + /swagger:
     np. http://localhost:5000/swagger
